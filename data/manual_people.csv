@@ -1,0 +1,13 @@
+personId,description,firstFrame,lastFrame,representativeFrame,x1,y1,x2,y2,notes
+P01,"Dark gray/brown jacket, black trousers, short dark hair; carries white paper",0,794,0,248,214,294,313,Main participant. Crosses and turns several times; counted once.
+P02,"Brown/dark jacket, blue jeans, dark hair",0,794,0,490,150,538,238,Main participant. Repeated crossings and reappearances counted once. Person in the sign/pole ID-break example.
+P03,"All-black coat/top and black trousers, dark hair",0,794,0,631,230,693,329,Main participant. Repeated crossings counted once; distinct from P01 black-trousered jacket wearer.
+P04,"Red and navy padded jacket, navy trousers, white shoes and white paper",9,794,540,230,377,291,534,Main participant. Returns near foreground and walks across grass. First boundary appearance is partial.
+P05,"Blonde hair, black coat, blue jeans",15,794,540,278,375,341,519,"Main participant. Walks beside P04 early, separates later and returns across grass. First boundary appearance is partial."
+P06,"Balding/light-haired person, black leather-like jacket, blue jeans",37,794,660,174,149,211,230,Main participant. Present separately from the older blue-jacketed passerby. First boundary appearance is partial.
+P07,Small distant person in black carrying a white bag on the upper footpath,65,174,120,162,66,187,110,Walks right-to-left on the distant upper path. Included even though small. Boundary frames reviewed in crops.
+P08,"Pale-blue coat, pale hat, blue trousers and dark shoulder bag",112,221,160,341,166,386,249,Crosses right-to-left once. First appearance partial; exits left.
+P09,"Dark navy horizontally striped top, light-blue jeans",129,288,160,496,216,549,313,"Crosses right-to-left once, pauses/turns near left. First appearance partial; exits left."
+P10,"Long dark hair, bright red jacket/top and blue jeans",419,794,440,611,249,660,364,Enters from right and walks along road; distinct from P04 red/navy padded jacket. First human appearance partial.
+P11,"Older/balding person, blue jacket, gray trousers, tan carried bag",654,747,660,681,291,750,421,"Crosses right-to-left once. Distinct from P06, visible simultaneously. First appearance partial."
+P12,Distant person in black top and light beige trousers at green car,670,794,730,713,48,742,101,Works beside/opening the green car boot at upper right. Included as visibly human. firstFrame is approximate earliest reviewed appearance; not a precise first-pixel annotation.

@@ -1,0 +1,8 @@
+{
+  "manualCount": 12,
+  "uniqueTrackerIds": 38,
+  "difference": 26,
+  "absoluteDifference": 26,
+  "countConvention": "Count every distinct visibly human person across the complete image, including partial boundary appearances, distant upper-path person and person at car boot. Count recurring/reentering participants once. Exclude vehicles, tripod and signs.",
+  "note": "The visual count is a review estimate, not official dataset ground truth."
+}

@@ -1,0 +1,27 @@
+{
+  "manualCount": 12,
+  "source": "OpenCV vtest.avi, all 795 decoded frames, 10 FPS; zero-based frame indices.",
+  "method": "Independent visual review of raw frames at 20-frame intervals across the complete clip, closer boundary crops and detailed occlusion frames. Appearance and continuous paths used to deduplicate repeated crossings. Not derived from tracker IDs.",
+  "countConvention": "Count every distinct visibly human person across the complete image, including partial boundary appearances, distant upper-path person and person at car boot. Count recurring/reentering participants once. Exclude vehicles, tripod and signs.",
+  "scope": "Manual visual count for this clip, not independently labelled MOT benchmark ground truth. Frame bounds are nearest reviewed appearances and may differ slightly from the first/last visible pixel; P12 firstFrame is approximate.",
+  "recurringCoreParticipants": [
+    "P01",
+    "P02",
+    "P03",
+    "P04",
+    "P05",
+    "P06"
+  ],
+  "idSwitch": {
+    "personId": "P02",
+    "oldId": 75,
+    "newId": 100,
+    "beforeFrame": 355,
+    "gapFrame": 356,
+    "afterFrame": 357,
+    "afterTimeSeconds": 35.7,
+    "observation": "Same brown/dark jacket and blue-jeans person is beside/behind the central sign in the before frame and emerges to its left in the after frame; tracked ID changes from75 to100.",
+    "explanation": "The sign and lamp pole hide much of the body while another black-clothed person crosses nearby. These occlusions plausibly disrupted motion/box-overlap association; this cause is an interpretation, not an internal tracker diagnosis."
+  },
+  "inputSha256": "45cddc9490be69345cbdab64ca583be65987e864ca408038e648db99e10516cf"
+}
