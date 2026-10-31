@@ -12,8 +12,6 @@ This project adds tracking to person detection. It shows an ID for each tracked 
 | Find an ID switch and note its frame and likely cause | Frames 355 and 357, with an evidence image |
 | Push the work and share the repository link | [Submission repository](https://github.com/fayzliaqat/week4-person-tracking) |
 
-The written task is to submit before the next class. It does not give an exact calendar deadline. The task was checked in slide 11 and the recording's task screen at 00:55:00; a full spoken transcript was not produced.
-
 ## Setup
 
 Use Python 3.11 or newer. In Windows PowerShell, open this project folder and run:
